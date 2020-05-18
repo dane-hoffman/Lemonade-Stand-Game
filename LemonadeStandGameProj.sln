@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonadeStandGameProj", "LemonadeStandGameProj\LemonadeStandGameProj.csproj", "{ADEBF27C-FB76-42C5-9122-D061F9C8CF5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADEBF27C-FB76-42C5-9122-D061F9C8CF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEBF27C-FB76-42C5-9122-D061F9C8CF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEBF27C-FB76-42C5-9122-D061F9C8CF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEBF27C-FB76-42C5-9122-D061F9C8CF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35FC04A7-A95D-449B-948E-7CEA3CCD85D9}
+	EndGlobalSection
+EndGlobal
